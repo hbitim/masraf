@@ -62,7 +62,7 @@ export default {
   },
   env: {
     baseUrl: 'https://nuxtbend.firebaseio.com',
-    fbAPIkey: 'AIzaSyB0hzuc-Li5R-Ve4SDXLhf2a50b0x3sgsk'
+    fbAPIkey: 'zaSyB0hzuc-Li5R-Ve4SDXLhf2a50b0x3sgsk'
   },
   transition: {
     name: 'fade',
